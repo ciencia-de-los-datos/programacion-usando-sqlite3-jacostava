@@ -40,3 +40,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT K0, C16 from tbl1 where K0 = substring(c16,1,1);

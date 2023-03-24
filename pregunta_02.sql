@@ -18,3 +18,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+select COUNT(*) from tbl1;
